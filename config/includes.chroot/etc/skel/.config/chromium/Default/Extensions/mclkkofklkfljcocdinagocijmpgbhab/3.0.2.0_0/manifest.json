@@ -1,0 +1,32 @@
+{
+   "background": {
+      "scripts": [ "chext_backgroundpage.js" ]
+   },
+   "browser_action": {
+      "default_icon": "image/inactive_flag.png",
+      "default_popup": "popup.html",
+      "default_title": "__MSG_inputtool_title__"
+   },
+   "content_scripts": [ {
+      "all_frames": true,
+      "js": [ "chext_loader.js" ],
+      "matches": [ "http://*/*", "https://*/*" ]
+   } ],
+   "default_locale": "en",
+   "description": "__MSG_inputtool_description__",
+   "devtools_page": "devtools.html",
+   "icons": {
+      "128": "image/it-128.png",
+      "16": "image/active_flag.png",
+      "32": "image/it-32.png",
+      "48": "image/it-48.png"
+   },
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDyVJtDU94PQL2SoZD4PChh0duiZBRE98pMeJL3LPpM68nN6fw+NBfXA6wlhqRHGB/6Bgx1nIXG0Hjyvwv8hj/S1atFpdNhzmvR3GRhvEjGng+L8A67OP1HuzwiXpEdYBSaI0R6qOgxEWgH72oKQyNdDOxXRDGCR99CtiJe5MpO0QIDAQAB",
+   "manifest_version": 2,
+   "name": "__MSG_inputtool_title__",
+   "options_page": "options.html",
+   "permissions": [ "tabs", "http://*/*", "https://*/*", "webNavigation" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "3.0.2.0",
+   "web_accessible_resources": [ "image/pencil.png", "image/ita_sprite1.png", "image/search_button_normal.png" ]
+}

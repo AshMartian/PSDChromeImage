@@ -1,0 +1,7 @@
+[Added Associations]
+x-scheme-handler/file=exo-file-manager.desktop
+x-scheme-handler/trash=exo-file-manager.desktop
+application/x-java-jnlp-file=userapp-javaws-UAWA5W.desktop;icedtea-netx-javaws.desktop;
+
+[Default Applications]
+application/x-java-jnlp-file=icedtea-netx-javaws.desktop

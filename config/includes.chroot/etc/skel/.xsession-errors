@@ -1,0 +1,1099 @@
+Xsession: X session started for psd at Tue Oct 22 10:19:17 PDT 2013
+localuser:psd being added to access control list
+/usr/bin/startxfce4: X server already running on display :0
+ssh-agent is already running
+env: xfce4-panel: No such file or directory
+
+(xfwm4:2982): Pango-WARNING **: failed to create cairo scaled font, expect ugly output. the offending font is 'Arial Hebrew 11'
+
+(xfwm4:2982): Pango-WARNING **: font_face status is: <unknown error status>
+
+(xfwm4:2982): Pango-WARNING **: scaled_font status is: out of memory
+
+(xfwm4:2982): Pango-WARNING **: failed to create cairo scaled font, expect ugly output. the offending font is 'Arial Hebrew 11'
+
+(xfwm4:2982): Pango-WARNING **: font_face status is: <unknown error status>
+
+(xfwm4:2982): Pango-WARNING **: scaled_font status is: out of memory
+
+(xfwm4:2982): Pango-WARNING **: shaping failure, expect ugly output. shape-engine='BasicEngineFc', font='Arial Hebrew 11', text='.'
+xfdesktop[2988]: starting up
+xfce4-settings-helper: Another instance is already running. Leaving...
+/tmp/tmp.ckv55MbJ4p
+
+** (xfce4-session:2975): WARNING **: Unable to launch "/usr/lib/policykit-1-gnome/polkit-gnome-authentication-agent-1" (specified by autostart/polkit-gnome-authentication-agent-1.desktop): Failed to execute child process "/usr/lib/policykit-1-gnome/polkit-gnome-authentication-agent-1" (No such file or directory)
+
+** (xfce4-session:2975): WARNING **: Unable to launch "L2tpIPsecVpn" (specified by autostart/L2tpIPsecVpn.desktop): Failed to execute child process "L2tpIPsecVpn" (No such file or directory)
+
+(xfce4-settings-helper:3018): xfce4-settings-helper-WARNING **: Unknown mode '1440x855 @ 60.0' for output VBOX0.
+
+Gkr-Message: secret service operation failed: The name org.freedesktop.secrets was not provided by any .service files
+p11-kit: couldn't load module: /usr/lib/i386-linux-gnu/pkcs11/gnome-keyring-pkcs11.so: /usr/lib/i386-linux-gnu/pkcs11/gnome-keyring-pkcs11.so: cannot open shared object file: No such file or directory
+Conky: desktop window (1c00003) is subwindow of root window (138)
+Conky: drawing to desktop window
+Conky: drawing to single buffer
+Xsession: X session started for psd at Tue Oct 22 10:23:20 PDT 2013
+localuser:psd being added to access control list
+/usr/bin/startxfce4: X server already running on display :0
+ssh-agent is already running
+
+(xfwm4:3003): Pango-WARNING **: failed to create cairo scaled font, expect ugly output. the offending font is 'Arial Hebrew 11'
+
+(xfwm4:3003): Pango-WARNING **: font_face status is: <unknown error status>
+
+(xfwm4:3003): Pango-WARNING **: scaled_font status is: out of memory
+
+(xfwm4:3003): Pango-WARNING **: failed to create cairo scaled font, expect ugly output. the offending font is 'Arial Hebrew 11'
+
+(xfwm4:3003): Pango-WARNING **: font_face status is: <unknown error status>
+
+(xfwm4:3003): Pango-WARNING **: scaled_font status is: out of memory
+
+(xfwm4:3003): Pango-WARNING **: shaping failure, expect ugly output. shape-engine='BasicEngineFc', font='Arial Hebrew 11', text='.'
+xfdesktop[3014]: starting up
+
+(xfce4-settings-helper:3018): xfce4-settings-helper-WARNING **: Unknown mode '1440x855 @ 60.0' for output VBOX0.
+
+xfce4-settings-helper: Another instance is already running. Leaving...
+
+** (xfce4-session:2998): WARNING **: Unable to launch "/usr/lib/policykit-1-gnome/polkit-gnome-authentication-agent-1" (specified by autostart/polkit-gnome-authentication-agent-1.desktop): Failed to execute child process "/usr/lib/policykit-1-gnome/polkit-gnome-authentication-agent-1" (No such file or directory)
+/tmp/tmp.9Fvv2An4dN
+
+** (xfce4-session:2998): WARNING **: Unable to launch "L2tpIPsecVpn" (specified by autostart/L2tpIPsecVpn.desktop): Failed to execute child process "L2tpIPsecVpn" (No such file or directory)
+Gkr-Message: secret service operation failed: The name org.freedesktop.secrets was not provided by any .service files
+p11-kit: couldn't load module: /usr/lib/i386-linux-gnu/pkcs11/gnome-keyring-pkcs11.so: /usr/lib/i386-linux-gnu/pkcs11/gnome-keyring-pkcs11.so: cannot open shared object file: No such file or directory
+Conky: desktop window (2000003) is subwindow of root window (138)
+Conky: drawing to desktop window
+Conky: drawing to single buffer
+/tmp/tmp.FmleijG7qz
+Gkr-Message: secret service operation failed: The name org.freedesktop.secrets was not provided by any .service files
+
+(Thunar:3009): Gtk-WARNING **: Error loading theme icon 'emblem-downloads' for stock: Icon 'emblem-downloads' not present in theme
+Xsession: X session started for psd at Tue Oct 22 10:42:25 PDT 2013
+localuser:psd being added to access control list
+/usr/bin/startxfce4: X server already running on display :0
+ssh-agent is already running
+
+(xfwm4:2934): Pango-WARNING **: failed to create cairo scaled font, expect ugly output. the offending font is 'Arial Hebrew 11'
+
+(xfwm4:2934): Pango-WARNING **: font_face status is: <unknown error status>
+
+(xfwm4:2934): Pango-WARNING **: scaled_font status is: out of memory
+
+(xfwm4:2934): Pango-WARNING **: failed to create cairo scaled font, expect ugly output. the offending font is 'Arial Hebrew 11'
+
+(xfwm4:2934): Pango-WARNING **: font_face status is: <unknown error status>
+
+(xfwm4:2934): Pango-WARNING **: scaled_font status is: out of memory
+
+(xfwm4:2934): Pango-WARNING **: shaping failure, expect ugly output. shape-engine='BasicEngineFc', font='Arial Hebrew 11', text='.'
+xfdesktop[2944]: starting up
+
+(xfce4-settings-helper:2949): xfce4-settings-helper-WARNING **: Unknown mode '1440x855 @ 60.0' for output VBOX0.
+
+xfce4-settings-helper: Another instance is already running. Leaving...
+
+** (xfce4-session:2928): WARNING **: Unable to launch "/usr/lib/policykit-1-gnome/polkit-gnome-authentication-agent-1" (specified by autostart/polkit-gnome-authentication-agent-1.desktop): Failed to execute child process "/usr/lib/policykit-1-gnome/polkit-gnome-authentication-agent-1" (No such file or directory)
+/tmp/tmp.GYlmppmgmR
+
+** (xfce4-session:2928): WARNING **: Unable to launch "L2tpIPsecVpn" (specified by autostart/L2tpIPsecVpn.desktop): Failed to execute child process "L2tpIPsecVpn" (No such file or directory)
+Gkr-Message: secret service operation failed: The name org.freedesktop.secrets was not provided by any .service files
+p11-kit: couldn't load module: /usr/lib/i386-linux-gnu/pkcs11/gnome-keyring-pkcs11.so: /usr/lib/i386-linux-gnu/pkcs11/gnome-keyring-pkcs11.so: cannot open shared object file: No such file or directory
+Conky: desktop window (2000003) is subwindow of root window (138)
+Conky: drawing to desktop window
+Conky: drawing to single buffer
+/tmp/tmp.27dQ2OmOfa
+Gkr-Message: secret service operation failed: The name org.freedesktop.secrets was not provided by any .service files
+/tmp/tmp.V2E4k792Hm
+Gkr-Message: secret service operation failed: The name org.freedesktop.secrets was not provided by any .service files
+/tmp/tmp.LjPsMwz1IH
+Gkr-Message: secret service operation failed: The name org.freedesktop.secrets was not provided by any .service files
+/tmp/tmp.h1SCpWWD0F
+Gkr-Message: secret service operation failed: The name org.freedesktop.secrets was not provided by any .service files
+
+(xfce4-appearance-settings:4390): Pango-WARNING **: failed to create cairo scaled font, expect ugly output. the offending font is 'Sathu 9'
+
+(xfce4-appearance-settings:4390): Pango-WARNING **: font_face status is: <unknown error status>
+
+(xfce4-appearance-settings:4390): Pango-WARNING **: scaled_font status is: out of memory
+
+(xfce4-appearance-settings:4390): Pango-WARNING **: shaping failure, expect ugly output. shape-engine='BasicEngineFc', font='Sathu 9', text='●'
+
+(xfce4-appearance-settings:4390): Pango-WARNING **: failed to create cairo scaled font, expect ugly output. the offending font is 'Sathu 9'
+
+(xfce4-appearance-settings:4390): Pango-WARNING **: font_face status is: <unknown error status>
+
+(xfce4-appearance-settings:4390): Pango-WARNING **: scaled_font status is: out of memory
+/tmp/tmp.PzzdZPjpVa
+Gkr-Message: secret service operation failed: The name org.freedesktop.secrets was not provided by any .service files
+
+(xfwm4:2934): Pango-WARNING **: failed to create cairo scaled font, expect ugly output. the offending font is 'Arial Hebrew 11'
+
+(xfwm4:2934): Pango-WARNING **: font_face status is: <unknown error status>
+
+(xfwm4:2934): Pango-WARNING **: scaled_font status is: out of memory
+/tmp/tmp.FDiga1VjIh
+Gkr-Message: secret service operation failed: The name org.freedesktop.secrets was not provided by any .service files
+/tmp/tmp.nHtU7JGvQj
+Gkr-Message: secret service operation failed: The name org.freedesktop.secrets was not provided by any .service files
+
+(Thunar:2937): Gtk-WARNING **: Error loading theme icon 'emblem-downloads' for stock: Icon 'emblem-downloads' not present in theme
+
+(xfwm4-settings:4835): Pango-WARNING **: failed to create cairo scaled font, expect ugly output. the offending font is 'Arial Hebrew 9.9990234375'
+
+(xfwm4-settings:4835): Pango-WARNING **: font_face status is: no error has occurred
+
+(xfwm4-settings:4835): Pango-WARNING **: scaled_font status is: out of memory
+
+(xfwm4-settings:4835): Pango-WARNING **: shaping failure, expect ugly output. shape-engine='BasicEngineFc', font='Arial Hebrew 9.9990234375', text='●'
+
+(xfwm4-settings:4835): Pango-WARNING **: failed to create cairo scaled font, expect ugly output. the offending font is 'Arial Hebrew 9.9990234375'
+
+(xfwm4-settings:4835): Pango-WARNING **: font_face status is: <unknown error status>
+
+(xfwm4-settings:4835): Pango-WARNING **: scaled_font status is: out of memory
+
+(xfwm4-settings:4835): Pango-WARNING **: failed to create cairo scaled font, expect ugly output. the offending font is 'Arial Hebrew 11'
+
+(xfwm4-settings:4835): Pango-WARNING **: font_face status is: out of memory
+
+(xfwm4-settings:4835): Pango-WARNING **: scaled_font status is: out of memory
+
+(xfwm4-settings:4835): Pango-WARNING **: shaping failure, expect ugly output. shape-engine='BasicEngineFc', font='Arial Hebrew 11', text='●'
+
+(xfwm4-settings:4835): Pango-WARNING **: failed to create cairo scaled font, expect ugly output. the offending font is 'Arial Hebrew 11'
+
+(xfwm4-settings:4835): Pango-WARNING **: font_face status is: <unknown error status>
+
+(xfwm4-settings:4835): Pango-WARNING **: scaled_font status is: out of memory
+
+(xfwm4-settings:4835): Pango-WARNING **: failed to create cairo scaled font, expect ugly output. the offending font is 'Arial Narrow Condensed 11'
+
+(xfwm4-settings:4835): Pango-WARNING **: font_face status is: <unknown error status>
+
+(xfwm4-settings:4835): Pango-WARNING **: scaled_font status is: out of memory
+
+(xfwm4-settings:4835): Pango-WARNING **: shaping failure, expect ugly output. shape-engine='BasicEngineFc', font='Arial Narrow Condensed 11', text='●'
+
+(xfwm4-settings:4835): Pango-WARNING **: failed to create cairo scaled font, expect ugly output. the offending font is 'Arial Narrow Condensed 11'
+
+(xfwm4-settings:4835): Pango-WARNING **: font_face status is: <unknown error status>
+
+(xfwm4-settings:4835): Pango-WARNING **: scaled_font status is: out of memory
+
+(xfwm4-settings:4835): Pango-WARNING **: failed to create cairo scaled font, expect ugly output. the offending font is 'Arial 11'
+
+(xfwm4-settings:4835): Pango-WARNING **: font_face status is: <unknown error status>
+
+(xfwm4-settings:4835): Pango-WARNING **: scaled_font status is: out of memory
+
+(xfwm4-settings:4835): Pango-WARNING **: shaping failure, expect ugly output. shape-engine='BasicEngineFc', font='Arial 11', text='●'
+
+(xfwm4-settings:4835): Pango-WARNING **: failed to create cairo scaled font, expect ugly output. the offending font is 'Arial 11'
+
+(xfwm4-settings:4835): Pango-WARNING **: font_face status is: <unknown error status>
+
+(xfwm4-settings:4835): Pango-WARNING **: scaled_font status is: out of memory
+
+(xfwm4-settings:4835): Pango-WARNING **: failed to create cairo scaled font, expect ugly output. the offending font is 'Arial Rounded MT Bold, 11'
+
+(xfwm4-settings:4835): Pango-WARNING **: font_face status is: <unknown error status>
+
+(xfwm4-settings:4835): Pango-WARNING **: scaled_font status is: out of memory
+
+(xfwm4-settings:4835): Pango-WARNING **: shaping failure, expect ugly output. shape-engine='BasicEngineFc', font='Arial Rounded MT Bold, 11', text='●'
+
+(xfwm4-settings:4835): Pango-WARNING **: failed to create cairo scaled font, expect ugly output. the offending font is 'Arial Rounded MT Bold, 11'
+
+(xfwm4-settings:4835): Pango-WARNING **: font_face status is: <unknown error status>
+
+(xfwm4-settings:4835): Pango-WARNING **: scaled_font status is: out of memory
+
+(xfwm4-settings:4835): Pango-WARNING **: failed to create cairo scaled font, expect ugly output. the offending font is 'Arial Unicode MS 11'
+
+(xfwm4-settings:4835): Pango-WARNING **: font_face status is: <unknown error status>
+
+(xfwm4-settings:4835): Pango-WARNING **: scaled_font status is: out of memory
+
+(xfwm4-settings:4835): Pango-WARNING **: shaping failure, expect ugly output. shape-engine='BasicEngineFc', font='Arial Unicode MS 11', text='●'
+
+(xfwm4-settings:4835): Pango-WARNING **: failed to create cairo scaled font, expect ugly output. the offending font is 'Arial Unicode MS 11'
+
+(xfwm4-settings:4835): Pango-WARNING **: font_face status is: <unknown error status>
+
+(xfwm4-settings:4835): Pango-WARNING **: scaled_font status is: out of memory
+
+(xfwm4-settings:4835): Pango-WARNING **: failed to create cairo scaled font, expect ugly output. the offending font is 'Calibri 11'
+
+(xfwm4-settings:4835): Pango-WARNING **: font_face status is: <unknown error status>
+
+(xfwm4-settings:4835): Pango-WARNING **: scaled_font status is: out of memory
+
+(xfwm4-settings:4835): Pango-WARNING **: shaping failure, expect ugly output. shape-engine='BasicEngineFc', font='Calibri 11', text='●'
+
+(xfwm4-settings:4835): Pango-WARNING **: failed to create cairo scaled font, expect ugly output. the offending font is 'Calibri 11'
+
+(xfwm4-settings:4835): Pango-WARNING **: font_face status is: <unknown error status>
+
+(xfwm4-settings:4835): Pango-WARNING **: scaled_font status is: out of memory
+
+(xfwm4-settings:4835): Pango-WARNING **: failed to create cairo scaled font, expect ugly output. the offending font is 'Calibri Light 11'
+
+(xfwm4-settings:4835): Pango-WARNING **: font_face status is: <unknown error status>
+
+(xfwm4-settings:4835): Pango-WARNING **: scaled_font status is: out of memory
+
+(xfwm4-settings:4835): Pango-WARNING **: shaping failure, expect ugly output. shape-engine='BasicEngineFc', font='Calibri Light 11', text='●'
+
+(xfwm4-settings:4835): Pango-WARNING **: failed to create cairo scaled font, expect ugly output. the offending font is 'Calibri Light 11'
+
+(xfwm4-settings:4835): Pango-WARNING **: font_face status is: <unknown error status>
+
+(xfwm4-settings:4835): Pango-WARNING **: scaled_font status is: out of memory
+
+(xfwm4-settings:4835): Pango-WARNING **: failed to create cairo scaled font, expect ugly output. the offending font is 'Candara 11'
+
+(xfwm4-settings:4835): Pango-WARNING **: font_face status is: <unknown error status>
+
+(xfwm4-settings:4835): Pango-WARNING **: scaled_font status is: out of memory
+
+(xfwm4-settings:4835): Pango-WARNING **: shaping failure, expect ugly output. shape-engine='BasicEngineFc', font='Candara 11', text='●'
+
+(xfwm4-settings:4835): Pango-WARNING **: failed to create cairo scaled font, expect ugly output. the offending font is 'Candara 11'
+
+(xfwm4-settings:4835): Pango-WARNING **: font_face status is: <unknown error status>
+
+(xfwm4-settings:4835): Pango-WARNING **: scaled_font status is: out of memory
+
+(xfwm4-settings:4835): Pango-WARNING **: failed to create cairo scaled font, expect ugly output. the offending font is 'Chalkduster Oblique 11'
+
+(xfwm4-settings:4835): Pango-WARNING **: font_face status is: <unknown error status>
+
+(xfwm4-settings:4835): Pango-WARNING **: scaled_font status is: out of memory
+
+(xfwm4-settings:4835): Pango-WARNING **: shaping failure, expect ugly output. shape-engine='BasicEngineFc', font='Chalkduster Oblique 11', text='●'
+
+(xfwm4-settings:4835): Pango-WARNING **: failed to create cairo scaled font, expect ugly output. the offending font is 'Chalkduster Oblique 11'
+
+(xfwm4-settings:4835): Pango-WARNING **: font_face status is: <unknown error status>
+
+(xfwm4-settings:4835): Pango-WARNING **: scaled_font status is: out of memory
+
+(xfwm4-settings:4835): Pango-WARNING **: failed to create cairo scaled font, expect ugly output. the offending font is 'Chalkduster 11'
+
+(xfwm4-settings:4835): Pango-WARNING **: font_face status is: <unknown error status>
+
+(xfwm4-settings:4835): Pango-WARNING **: scaled_font status is: out of memory
+
+(xfwm4-settings:4835): Pango-WARNING **: shaping failure, expect ugly output. shape-engine='BasicEngineFc', font='Chalkduster 11', text='●'
+
+(xfwm4-settings:4835): Pango-WARNING **: failed to create cairo scaled font, expect ugly output. the offending font is 'Chalkduster 11'
+
+(xfwm4-settings:4835): Pango-WARNING **: font_face status is: <unknown error status>
+
+(xfwm4-settings:4835): Pango-WARNING **: scaled_font status is: out of memory
+
+(xfwm4-settings:4835): Pango-WARNING **: failed to create cairo scaled font, expect ugly output. the offending font is 'Comic Sans MS 11'
+
+(xfwm4-settings:4835): Pango-WARNING **: font_face status is: <unknown error status>
+
+(xfwm4-settings:4835): Pango-WARNING **: scaled_font status is: out of memory
+
+(xfwm4-settings:4835): Pango-WARNING **: shaping failure, expect ugly output. shape-engine='BasicEngineFc', font='Comic Sans MS 11', text='●'
+
+(xfwm4-settings:4835): Pango-WARNING **: failed to create cairo scaled font, expect ugly output. the offending font is 'Comic Sans MS 11'
+
+(xfwm4-settings:4835): Pango-WARNING **: font_face status is: <unknown error status>
+
+(xfwm4-settings:4835): Pango-WARNING **: scaled_font status is: out of memory
+
+(xfwm4-settings:4835): Pango-WARNING **: failed to create cairo scaled font, expect ugly output. the offending font is 'Consolas Bold Italic 11'
+
+(xfwm4-settings:4835): Pango-WARNING **: font_face status is: <unknown error status>
+
+(xfwm4-settings:4835): Pango-WARNING **: scaled_font status is: out of memory
+
+(xfwm4-settings:4835): Pango-WARNING **: shaping failure, expect ugly output. shape-engine='BasicEngineFc', font='Consolas Bold Italic 11', text='●'
+
+(xfwm4-settings:4835): Pango-WARNING **: failed to create cairo scaled font, expect ugly output. the offending font is 'Consolas Bold Italic 11'
+
+(xfwm4-settings:4835): Pango-WARNING **: font_face status is: <unknown error status>
+
+(xfwm4-settings:4835): Pango-WARNING **: scaled_font status is: out of memory
+/tmp/tmp.aWtTa5X8QT
+Gkr-Message: secret service operation failed: The name org.freedesktop.secrets was not provided by any .service files
+/tmp/tmp.9v0XlDcRHP
+Gkr-Message: secret service operation failed: The name org.freedesktop.secrets was not provided by any .service files
+/tmp/tmp.ZflRZUScua
+Gkr-Message: secret service operation failed: The name org.freedesktop.secrets was not provided by any .service files
+/tmp/tmp.z5FnG0fFEt
+Gkr-Message: secret service operation failed: The name org.freedesktop.secrets was not provided by any .service files
+/tmp/tmp.8ZF1JgQzkc
+Gkr-Message: secret service operation failed: The name org.freedesktop.secrets was not provided by any .service files
+
+(xfce4-appearance-settings:5672): Pango-WARNING **: failed to create cairo scaled font, expect ugly output. the offending font is 'Tahoma 9'
+
+(xfce4-appearance-settings:5672): Pango-WARNING **: font_face status is: <unknown error status>
+
+(xfce4-appearance-settings:5672): Pango-WARNING **: scaled_font status is: out of memory
+
+(xfce4-appearance-settings:5672): Pango-WARNING **: shaping failure, expect ugly output. shape-engine='BasicEngineFc', font='Tahoma 9', text='●'
+
+(xfce4-appearance-settings:5672): Pango-WARNING **: failed to create cairo scaled font, expect ugly output. the offending font is 'Tahoma 9'
+
+(xfce4-appearance-settings:5672): Pango-WARNING **: font_face status is: <unknown error status>
+
+(xfce4-appearance-settings:5672): Pango-WARNING **: scaled_font status is: out of memory
+
+(xfce4-appearance-settings:5672): Pango-WARNING **: failed to create cairo scaled font, expect ugly output. the offending font is 'Times New Roman, 9'
+
+(xfce4-appearance-settings:5672): Pango-WARNING **: font_face status is: <unknown error status>
+
+(xfce4-appearance-settings:5672): Pango-WARNING **: scaled_font status is: out of memory
+
+(xfce4-appearance-settings:5672): Pango-WARNING **: shaping failure, expect ugly output. shape-engine='BasicEngineFc', font='Times New Roman, 9', text='●'
+
+(xfce4-appearance-settings:5672): Pango-WARNING **: failed to create cairo scaled font, expect ugly output. the offending font is 'Times New Roman, 9'
+
+(xfce4-appearance-settings:5672): Pango-WARNING **: font_face status is: <unknown error status>
+
+(xfce4-appearance-settings:5672): Pango-WARNING **: scaled_font status is: out of memory
+
+(xfce4-appearance-settings:5672): Pango-WARNING **: failed to create cairo scaled font, expect ugly output. the offending font is 'Trebuchet MS 9'
+
+(xfce4-appearance-settings:5672): Pango-WARNING **: font_face status is: <unknown error status>
+
+(xfce4-appearance-settings:5672): Pango-WARNING **: scaled_font status is: out of memory
+
+(xfce4-appearance-settings:5672): Pango-WARNING **: shaping failure, expect ugly output. shape-engine='BasicEngineFc', font='Trebuchet MS 9', text='●'
+
+(xfce4-appearance-settings:5672): Pango-WARNING **: failed to create cairo scaled font, expect ugly output. the offending font is 'Trebuchet MS 9'
+
+(xfce4-appearance-settings:5672): Pango-WARNING **: font_face status is: <unknown error status>
+
+(xfce4-appearance-settings:5672): Pango-WARNING **: scaled_font status is: out of memory
+
+(xfce4-appearance-settings:5672): Pango-WARNING **: failed to create cairo scaled font, expect ugly output. the offending font is 'Sathu 9'
+
+(xfce4-appearance-settings:5672): Pango-WARNING **: font_face status is: <unknown error status>
+
+(xfce4-appearance-settings:5672): Pango-WARNING **: scaled_font status is: out of memory
+
+(xfce4-appearance-settings:5672): Pango-WARNING **: shaping failure, expect ugly output. shape-engine='BasicEngineFc', font='Sathu 9', text='●'
+
+(xfce4-appearance-settings:5672): Pango-WARNING **: failed to create cairo scaled font, expect ugly output. the offending font is 'Sathu 9'
+
+(xfce4-appearance-settings:5672): Pango-WARNING **: font_face status is: <unknown error status>
+
+(xfce4-appearance-settings:5672): Pango-WARNING **: scaled_font status is: out of memory
+
+(xfce4-appearance-settings:5672): Pango-WARNING **: failed to create cairo scaled font, expect ugly output. the offending font is 'Microsoft Yi Baiti 9'
+
+(xfce4-appearance-settings:5672): Pango-WARNING **: font_face status is: <unknown error status>
+
+(xfce4-appearance-settings:5672): Pango-WARNING **: scaled_font status is: out of memory
+
+(xfce4-appearance-settings:5672): Pango-WARNING **: shaping failure, expect ugly output. shape-engine='BasicEngineFc', font='Microsoft Yi Baiti 9', text='●'
+
+(xfce4-appearance-settings:5672): Pango-WARNING **: failed to create cairo scaled font, expect ugly output. the offending font is 'Microsoft Yi Baiti 9'
+
+(xfce4-appearance-settings:5672): Pango-WARNING **: font_face status is: <unknown error status>
+
+(xfce4-appearance-settings:5672): Pango-WARNING **: scaled_font status is: out of memory
+
+(xfce4-appearance-settings:5672): Pango-WARNING **: failed to create cairo scaled font, expect ugly output. the offending font is 'Microsoft Sans Serif 9'
+
+(xfce4-appearance-settings:5672): Pango-WARNING **: font_face status is: <unknown error status>
+
+(xfce4-appearance-settings:5672): Pango-WARNING **: scaled_font status is: out of memory
+
+(xfce4-appearance-settings:5672): Pango-WARNING **: shaping failure, expect ugly output. shape-engine='BasicEngineFc', font='Microsoft Sans Serif 9', text='●'
+
+(xfce4-appearance-settings:5672): Pango-WARNING **: failed to create cairo scaled font, expect ugly output. the offending font is 'Microsoft Sans Serif 9'
+
+(xfce4-appearance-settings:5672): Pango-WARNING **: font_face status is: <unknown error status>
+
+(xfce4-appearance-settings:5672): Pango-WARNING **: scaled_font status is: out of memory
+
+(xfce4-appearance-settings:5672): Pango-WARNING **: failed to create cairo scaled font, expect ugly output. the offending font is 'Helvetica Neue LT Com 9'
+
+(xfce4-appearance-settings:5672): Pango-WARNING **: font_face status is: <unknown error status>
+
+(xfce4-appearance-settings:5672): Pango-WARNING **: scaled_font status is: out of memory
+
+(xfce4-appearance-settings:5672): Pango-WARNING **: shaping failure, expect ugly output. shape-engine='BasicEngineFc', font='Helvetica Neue LT Com 9', text='●'
+
+(xfce4-appearance-settings:5672): Pango-WARNING **: failed to create cairo scaled font, expect ugly output. the offending font is 'Helvetica Neue LT Com 9'
+
+(xfce4-appearance-settings:5672): Pango-WARNING **: font_face status is: <unknown error status>
+
+(xfce4-appearance-settings:5672): Pango-WARNING **: scaled_font status is: out of memory
+
+(xfce4-appearance-settings:5672): Pango-WARNING **: failed to create cairo scaled font, expect ugly output. the offending font is 'Helvetica Neue LT Com Light Condensed 9'
+
+(xfce4-appearance-settings:5672): Pango-WARNING **: font_face status is: <unknown error status>
+
+(xfce4-appearance-settings:5672): Pango-WARNING **: scaled_font status is: out of memory
+
+(xfce4-appearance-settings:5672): Pango-WARNING **: shaping failure, expect ugly output. shape-engine='BasicEngineFc', font='Helvetica Neue LT Com Light Condensed 9', text='●'
+
+(xfce4-appearance-settings:5672): Pango-WARNING **: failed to create cairo scaled font, expect ugly output. the offending font is 'Helvetica Neue LT Com Light Condensed 9'
+
+(xfce4-appearance-settings:5672): Pango-WARNING **: font_face status is: <unknown error status>
+
+(xfce4-appearance-settings:5672): Pango-WARNING **: scaled_font status is: out of memory
+
+(xfce4-appearance-settings:5672): Pango-WARNING **: failed to create cairo scaled font, expect ugly output. the offending font is 'Gill Sans MT 9'
+
+(xfce4-appearance-settings:5672): Pango-WARNING **: font_face status is: <unknown error status>
+
+(xfce4-appearance-settings:5672): Pango-WARNING **: scaled_font status is: out of memory
+
+(xfce4-appearance-settings:5672): Pango-WARNING **: shaping failure, expect ugly output. shape-engine='BasicEngineFc', font='Gill Sans MT 9', text='●'
+
+(xfce4-appearance-settings:5672): Pango-WARNING **: failed to create cairo scaled font, expect ugly output. the offending font is 'Gill Sans MT 9'
+
+(xfce4-appearance-settings:5672): Pango-WARNING **: font_face status is: <unknown error status>
+
+(xfce4-appearance-settings:5672): Pango-WARNING **: scaled_font status is: out of memory
+
+(xfce4-appearance-settings:5672): Pango-WARNING **: failed to choose a font, expect ugly output. engine-type='PangoRenderFc', script='common'
+
+(xfce4-appearance-settings:5672): Pango-WARNING **: failed to create cairo scaled font, expect ugly output. the offending font is 'Consolas Bold Italic 9'
+
+(xfce4-appearance-settings:5672): Pango-WARNING **: font_face status is: <unknown error status>
+
+(xfce4-appearance-settings:5672): Pango-WARNING **: scaled_font status is: out of memory
+
+(xfce4-appearance-settings:5672): Pango-WARNING **: shaping failure, expect ugly output. shape-engine='BasicEngineFc', font='Consolas Bold Italic 9', text='●'
+
+(xfce4-appearance-settings:5672): Pango-WARNING **: failed to create cairo scaled font, expect ugly output. the offending font is 'Consolas Bold Italic 9'
+
+(xfce4-appearance-settings:5672): Pango-WARNING **: font_face status is: <unknown error status>
+
+(xfce4-appearance-settings:5672): Pango-WARNING **: scaled_font status is: out of memory
+
+(xfce4-appearance-settings:5672): Pango-WARNING **: failed to create cairo scaled font, expect ugly output. the offending font is 'Comic Sans MS Bold Oblique 9'
+
+(xfce4-appearance-settings:5672): Pango-WARNING **: font_face status is: <unknown error status>
+
+(xfce4-appearance-settings:5672): Pango-WARNING **: scaled_font status is: out of memory
+
+(xfce4-appearance-settings:5672): Pango-WARNING **: shaping failure, expect ugly output. shape-engine='BasicEngineFc', font='Comic Sans MS Bold Oblique 9', text='●'
+
+(xfce4-appearance-settings:5672): Pango-WARNING **: failed to create cairo scaled font, expect ugly output. the offending font is 'Comic Sans MS Bold Oblique 9'
+
+(xfce4-appearance-settings:5672): Pango-WARNING **: font_face status is: <unknown error status>
+
+(xfce4-appearance-settings:5672): Pango-WARNING **: scaled_font status is: out of memory
+
+(xfce4-appearance-settings:5672): Pango-WARNING **: failed to create cairo scaled font, expect ugly output. the offending font is 'Comic Sans MS 9'
+
+(xfce4-appearance-settings:5672): Pango-WARNING **: font_face status is: <unknown error status>
+
+(xfce4-appearance-settings:5672): Pango-WARNING **: scaled_font status is: out of memory
+
+(xfce4-appearance-settings:5672): Pango-WARNING **: shaping failure, expect ugly output. shape-engine='BasicEngineFc', font='Comic Sans MS 9', text='●'
+
+(xfce4-appearance-settings:5672): Pango-WARNING **: failed to create cairo scaled font, expect ugly output. the offending font is 'Comic Sans MS 9'
+
+(xfce4-appearance-settings:5672): Pango-WARNING **: font_face status is: <unknown error status>
+
+(xfce4-appearance-settings:5672): Pango-WARNING **: scaled_font status is: out of memory
+
+(xfce4-appearance-settings:5672): Pango-WARNING **: failed to create cairo scaled font, expect ugly output. the offending font is 'Chalkduster 9'
+
+(xfce4-appearance-settings:5672): Pango-WARNING **: font_face status is: <unknown error status>
+
+(xfce4-appearance-settings:5672): Pango-WARNING **: scaled_font status is: out of memory
+
+(xfce4-appearance-settings:5672): Pango-WARNING **: shaping failure, expect ugly output. shape-engine='BasicEngineFc', font='Chalkduster 9', text='●'
+
+(xfce4-appearance-settings:5672): Pango-WARNING **: failed to create cairo scaled font, expect ugly output. the offending font is 'Chalkduster 9'
+
+(xfce4-appearance-settings:5672): Pango-WARNING **: font_face status is: <unknown error status>
+
+(xfce4-appearance-settings:5672): Pango-WARNING **: scaled_font status is: out of memory
+
+(xfce4-appearance-settings:5672): Pango-WARNING **: failed to create cairo scaled font, expect ugly output. the offending font is 'Candara Oblique 9'
+
+(xfce4-appearance-settings:5672): Pango-WARNING **: font_face status is: out of memory
+
+(xfce4-appearance-settings:5672): Pango-WARNING **: scaled_font status is: out of memory
+
+(xfce4-appearance-settings:5672): Pango-WARNING **: shaping failure, expect ugly output. shape-engine='BasicEngineFc', font='Candara Oblique 9', text='●'
+
+(xfce4-appearance-settings:5672): Pango-WARNING **: failed to create cairo scaled font, expect ugly output. the offending font is 'Candara Oblique 9'
+
+(xfce4-appearance-settings:5672): Pango-WARNING **: font_face status is: <unknown error status>
+
+(xfce4-appearance-settings:5672): Pango-WARNING **: scaled_font status is: out of memory
+
+(xfce4-appearance-settings:5672): Pango-WARNING **: failed to create cairo scaled font, expect ugly output. the offending font is 'Candara 9'
+
+(xfce4-appearance-settings:5672): Pango-WARNING **: font_face status is: <unknown error status>
+
+(xfce4-appearance-settings:5672): Pango-WARNING **: scaled_font status is: out of memory
+
+(xfce4-appearance-settings:5672): Pango-WARNING **: shaping failure, expect ugly output. shape-engine='BasicEngineFc', font='Candara 9', text='●'
+
+(xfce4-appearance-settings:5672): Pango-WARNING **: failed to create cairo scaled font, expect ugly output. the offending font is 'Candara 9'
+
+(xfce4-appearance-settings:5672): Pango-WARNING **: font_face status is: <unknown error status>
+
+(xfce4-appearance-settings:5672): Pango-WARNING **: scaled_font status is: out of memory
+
+(xfce4-appearance-settings:5672): Pango-WARNING **: failed to create cairo scaled font, expect ugly output. the offending font is 'Calibri 9'
+
+(xfce4-appearance-settings:5672): Pango-WARNING **: font_face status is: <unknown error status>
+
+(xfce4-appearance-settings:5672): Pango-WARNING **: scaled_font status is: out of memory
+
+(xfce4-appearance-settings:5672): Pango-WARNING **: shaping failure, expect ugly output. shape-engine='BasicEngineFc', font='Calibri 9', text='●'
+
+(xfce4-appearance-settings:5672): Pango-WARNING **: failed to create cairo scaled font, expect ugly output. the offending font is 'Calibri 9'
+
+(xfce4-appearance-settings:5672): Pango-WARNING **: font_face status is: <unknown error status>
+
+(xfce4-appearance-settings:5672): Pango-WARNING **: scaled_font status is: out of memory
+
+(xfce4-appearance-settings:5672): Pango-WARNING **: failed to create cairo scaled font, expect ugly output. the offending font is 'Calibri Light 9'
+
+(xfce4-appearance-settings:5672): Pango-WARNING **: font_face status is: <unknown error status>
+
+(xfce4-appearance-settings:5672): Pango-WARNING **: scaled_font status is: out of memory
+
+(xfce4-appearance-settings:5672): Pango-WARNING **: shaping failure, expect ugly output. shape-engine='BasicEngineFc', font='Calibri Light 9', text='●'
+
+(xfce4-appearance-settings:5672): Pango-WARNING **: failed to create cairo scaled font, expect ugly output. the offending font is 'Calibri Light 9'
+
+(xfce4-appearance-settings:5672): Pango-WARNING **: font_face status is: <unknown error status>
+
+(xfce4-appearance-settings:5672): Pango-WARNING **: scaled_font status is: out of memory
+
+(xfce4-appearance-settings:5672): Pango-WARNING **: failed to create cairo scaled font, expect ugly output. the offending font is 'Arial Unicode MS 9'
+
+(xfce4-appearance-settings:5672): Pango-WARNING **: font_face status is: <unknown error status>
+
+(xfce4-appearance-settings:5672): Pango-WARNING **: scaled_font status is: out of memory
+
+(xfce4-appearance-settings:5672): Pango-WARNING **: shaping failure, expect ugly output. shape-engine='BasicEngineFc', font='Arial Unicode MS 9', text='●'
+
+(xfce4-appearance-settings:5672): Pango-WARNING **: failed to create cairo scaled font, expect ugly output. the offending font is 'Arial Unicode MS 9'
+
+(xfce4-appearance-settings:5672): Pango-WARNING **: font_face status is: <unknown error status>
+
+(xfce4-appearance-settings:5672): Pango-WARNING **: scaled_font status is: out of memory
+
+(xfce4-appearance-settings:5672): Pango-WARNING **: failed to create cairo scaled font, expect ugly output. the offending font is 'Arial Rounded MT Bold, 9'
+
+(xfce4-appearance-settings:5672): Pango-WARNING **: font_face status is: <unknown error status>
+
+(xfce4-appearance-settings:5672): Pango-WARNING **: scaled_font status is: out of memory
+
+(xfce4-appearance-settings:5672): Pango-WARNING **: shaping failure, expect ugly output. shape-engine='BasicEngineFc', font='Arial Rounded MT Bold, 9', text='●'
+
+(xfce4-appearance-settings:5672): Pango-WARNING **: failed to create cairo scaled font, expect ugly output. the offending font is 'Arial Rounded MT Bold, 9'
+
+(xfce4-appearance-settings:5672): Pango-WARNING **: font_face status is: <unknown error status>
+
+(xfce4-appearance-settings:5672): Pango-WARNING **: scaled_font status is: out of memory
+
+(xfce4-appearance-settings:5672): Pango-WARNING **: failed to create cairo scaled font, expect ugly output. the offending font is 'Arial Narrow Condensed 9'
+
+(xfce4-appearance-settings:5672): Pango-WARNING **: font_face status is: <unknown error status>
+
+(xfce4-appearance-settings:5672): Pango-WARNING **: scaled_font status is: out of memory
+
+(xfce4-appearance-settings:5672): Pango-WARNING **: shaping failure, expect ugly output. shape-engine='BasicEngineFc', font='Arial Narrow Condensed 9', text='●'
+
+(xfce4-appearance-settings:5672): Pango-WARNING **: failed to create cairo scaled font, expect ugly output. the offending font is 'Arial Narrow Condensed 9'
+
+(xfce4-appearance-settings:5672): Pango-WARNING **: font_face status is: <unknown error status>
+
+(xfce4-appearance-settings:5672): Pango-WARNING **: scaled_font status is: out of memory
+
+(xfce4-appearance-settings:5672): Pango-WARNING **: failed to create cairo scaled font, expect ugly output. the offending font is 'Arial Hebrew 9'
+
+(xfce4-appearance-settings:5672): Pango-WARNING **: font_face status is: <unknown error status>
+
+(xfce4-appearance-settings:5672): Pango-WARNING **: scaled_font status is: out of memory
+
+(xfce4-appearance-settings:5672): Pango-WARNING **: shaping failure, expect ugly output. shape-engine='BasicEngineFc', font='Arial Hebrew 9', text='●'
+
+(xfce4-appearance-settings:5672): Pango-WARNING **: failed to create cairo scaled font, expect ugly output. the offending font is 'Arial Hebrew 9'
+
+(xfce4-appearance-settings:5672): Pango-WARNING **: font_face status is: <unknown error status>
+
+(xfce4-appearance-settings:5672): Pango-WARNING **: scaled_font status is: out of memory
+
+(xfce4-appearance-settings:5672): Pango-WARNING **: failed to create cairo scaled font, expect ugly output. the offending font is 'Arial 9'
+
+(xfce4-appearance-settings:5672): Pango-WARNING **: font_face status is: <unknown error status>
+
+(xfce4-appearance-settings:5672): Pango-WARNING **: scaled_font status is: out of memory
+
+(xfce4-appearance-settings:5672): Pango-WARNING **: shaping failure, expect ugly output. shape-engine='BasicEngineFc', font='Arial 9', text='●'
+
+(xfce4-appearance-settings:5672): Pango-WARNING **: failed to create cairo scaled font, expect ugly output. the offending font is 'Arial 9'
+
+(xfce4-appearance-settings:5672): Pango-WARNING **: font_face status is: <unknown error status>
+
+(xfce4-appearance-settings:5672): Pango-WARNING **: scaled_font status is: out of memory
+
+(xfce4-appearance-settings:5672): Pango-WARNING **: failed to create cairo scaled font, expect ugly output. the offending font is 'Apple LiSung Light 9'
+
+(xfce4-appearance-settings:5672): Pango-WARNING **: font_face status is: <unknown error status>
+
+(xfce4-appearance-settings:5672): Pango-WARNING **: scaled_font status is: out of memory
+
+(xfce4-appearance-settings:5672): Pango-WARNING **: shaping failure, expect ugly output. shape-engine='BasicEngineFc', font='Apple LiSung Light 9', text='●'
+
+(xfce4-appearance-settings:5672): Pango-WARNING **: failed to create cairo scaled font, expect ugly output. the offending font is 'Apple LiSung Light 9'
+
+(xfce4-appearance-settings:5672): Pango-WARNING **: font_face status is: <unknown error status>
+
+(xfce4-appearance-settings:5672): Pango-WARNING **: scaled_font status is: out of memory
+
+(xfce4-appearance-settings:5672): Pango-WARNING **: failed to create cairo scaled font, expect ugly output. the offending font is 'Apple LiGothic Medium Oblique 9'
+
+(xfce4-appearance-settings:5672): Pango-WARNING **: font_face status is: <unknown error status>
+
+(xfce4-appearance-settings:5672): Pango-WARNING **: scaled_font status is: out of memory
+
+(xfce4-appearance-settings:5672): Pango-WARNING **: shaping failure, expect ugly output. shape-engine='BasicEngineFc', font='Apple LiGothic Medium Oblique 9', text='●'
+
+(xfce4-appearance-settings:5672): Pango-WARNING **: failed to create cairo scaled font, expect ugly output. the offending font is 'Apple LiGothic Medium Oblique 9'
+
+(xfce4-appearance-settings:5672): Pango-WARNING **: font_face status is: <unknown error status>
+
+(xfce4-appearance-settings:5672): Pango-WARNING **: scaled_font status is: out of memory
+
+(xfce4-appearance-settings:5672): Pango-WARNING **: failed to create cairo scaled font, expect ugly output. the offending font is 'AppleGothic Oblique 9'
+
+(xfce4-appearance-settings:5672): Pango-WARNING **: font_face status is: <unknown error status>
+
+(xfce4-appearance-settings:5672): Pango-WARNING **: scaled_font status is: out of memory
+
+(xfce4-appearance-settings:5672): Pango-WARNING **: shaping failure, expect ugly output. shape-engine='BasicEngineFc', font='AppleGothic Oblique 9', text='●'
+
+(xfce4-appearance-settings:5672): Pango-WARNING **: failed to create cairo scaled font, expect ugly output. the offending font is 'AppleGothic Oblique 9'
+
+(xfce4-appearance-settings:5672): Pango-WARNING **: font_face status is: out of memory
+
+(xfce4-appearance-settings:5672): Pango-WARNING **: scaled_font status is: out of memory
+
+(xfce4-appearance-settings:5672): Pango-WARNING **: failed to create cairo scaled font, expect ugly output. the offending font is 'AppleGothic 9'
+
+(xfce4-appearance-settings:5672): Pango-WARNING **: font_face status is: <unknown error status>
+
+(xfce4-appearance-settings:5672): Pango-WARNING **: scaled_font status is: out of memory
+
+(xfce4-appearance-settings:5672): Pango-WARNING **: shaping failure, expect ugly output. shape-engine='BasicEngineFc', font='AppleGothic 9', text='●'
+
+(xfce4-appearance-settings:5672): Pango-WARNING **: failed to create cairo scaled font, expect ugly output. the offending font is 'AppleGothic 9'
+
+(xfce4-appearance-settings:5672): Pango-WARNING **: font_face status is: out of memory
+
+(xfce4-appearance-settings:5672): Pango-WARNING **: scaled_font status is: out of memory
+
+(xfce4-appearance-settings:5672): Pango-WARNING **: failed to create cairo scaled font, expect ugly output. the offending font is 'Andale Mono 9'
+
+(xfce4-appearance-settings:5672): Pango-WARNING **: font_face status is: <unknown error status>
+
+(xfce4-appearance-settings:5672): Pango-WARNING **: scaled_font status is: out of memory
+
+(xfce4-appearance-settings:5672): Pango-WARNING **: shaping failure, expect ugly output. shape-engine='BasicEngineFc', font='Andale Mono 9', text='●'
+
+(xfce4-appearance-settings:5672): Pango-WARNING **: failed to create cairo scaled font, expect ugly output. the offending font is 'Andale Mono 9'
+
+(xfce4-appearance-settings:5672): Pango-WARNING **: font_face status is: <unknown error status>
+
+(xfce4-appearance-settings:5672): Pango-WARNING **: scaled_font status is: out of memory
+
+(xfce4-appearance-settings:5672): Pango-WARNING **: failed to create cairo scaled font, expect ugly output. the offending font is 'Apple LiSung Light Oblique 9'
+
+(xfce4-appearance-settings:5672): Pango-WARNING **: font_face status is: <unknown error status>
+
+(xfce4-appearance-settings:5672): Pango-WARNING **: scaled_font status is: out of memory
+
+(xfce4-appearance-settings:5672): Pango-WARNING **: shaping failure, expect ugly output. shape-engine='BasicEngineFc', font='Apple LiSung Light Oblique 9', text='●'
+
+(xfce4-appearance-settings:5672): Pango-WARNING **: failed to create cairo scaled font, expect ugly output. the offending font is 'Apple LiSung Light Oblique 9'
+
+(xfce4-appearance-settings:5672): Pango-WARNING **: font_face status is: <unknown error status>
+
+(xfce4-appearance-settings:5672): Pango-WARNING **: scaled_font status is: out of memory
+
+(xfce4-settings-manager:5669): Pango-WARNING **: failed to create cairo scaled font, expect ugly output. the offending font is 'AppleGothic Bold 10.798828125'
+
+(xfce4-settings-manager:5669): Pango-WARNING **: font_face status is: out of memory
+
+(xfce4-settings-manager:5669): Pango-WARNING **: scaled_font status is: out of memory
+
+(xfce4-settings-manager:5669): Pango-WARNING **: shaping failure, expect ugly output. shape-engine='BasicEngineFc', font='AppleGothic Bold 10.798828125', text='Appearance'
+
+(xfce4-settings-manager:5669): Pango-WARNING **: failed to create cairo scaled font, expect ugly output. the offending font is 'AppleGothic 9'
+
+(xfce4-settings-manager:5669): Pango-WARNING **: font_face status is: <unknown error status>
+
+(xfce4-settings-manager:5669): Pango-WARNING **: scaled_font status is: out of memory
+
+(xfce4-settings-manager:5669): Pango-WARNING **: shaping failure, expect ugly output. shape-engine='BasicEngineFc', font='AppleGothic 9', text='Customize the look of your desktop'
+
+(xfdesktop:2944): Pango-WARNING **: failed to create cairo scaled font, expect ugly output. the offending font is 'AppleGothic 14'
+
+(xfdesktop:2944): Pango-WARNING **: font_face status is: <unknown error status>
+
+(xfdesktop:2944): Pango-WARNING **: scaled_font status is: out of memory
+
+(xfdesktop:2944): Pango-WARNING **: shaping failure, expect ugly output. shape-engine='BasicEngineFc', font='AppleGothic 14', text='Downloads'
+
+(xfce4-settings-manager:5669): Pango-WARNING **: failed to create cairo scaled font, expect ugly output. the offending font is 'AppleGothic 9'
+
+(xfce4-settings-manager:5669): Pango-WARNING **: font_face status is: <unknown error status>
+
+(xfce4-settings-manager:5669): Pango-WARNING **: scaled_font status is: out of memory
+
+(xfce4-appearance-settings:5672): Pango-WARNING **: failed to create cairo scaled font, expect ugly output. the offending font is 'AppleGothic Bold 9'
+
+(xfce4-appearance-settings:5672): Pango-WARNING **: font_face status is: <unknown error status>
+
+(xfce4-appearance-settings:5672): Pango-WARNING **: scaled_font status is: out of memory
+
+(xfce4-appearance-settings:5672): Pango-WARNING **: shaping failure, expect ugly output. shape-engine='BasicEngineFc', font='AppleGothic Bold 9', text='Default Font'
+
+(xfce4-appearance-settings:5672): Pango-WARNING **: failed to create cairo scaled font, expect ugly output. the offending font is 'AppleGothic Bold 9'
+
+(xfce4-appearance-settings:5672): Pango-WARNING **: font_face status is: <unknown error status>
+
+(xfce4-appearance-settings:5672): Pango-WARNING **: scaled_font status is: out of memory
+
+(xfce4-appearance-settings:5672): Pango-WARNING **: failed to create cairo scaled font, expect ugly output. the offending font is 'AppleGothic 8'
+
+(xfce4-appearance-settings:5672): Pango-WARNING **: font_face status is: <unknown error status>
+
+(xfce4-appearance-settings:5672): Pango-WARNING **: scaled_font status is: out of memory
+
+(xfce4-appearance-settings:5672): Pango-WARNING **: shaping failure, expect ugly output. shape-engine='BasicEngineFc', font='AppleGothic 8', text='●'
+
+(xfce4-appearance-settings:5672): Pango-WARNING **: failed to create cairo scaled font, expect ugly output. the offending font is 'AppleGothic 8'
+
+(xfce4-appearance-settings:5672): Pango-WARNING **: font_face status is: out of memory
+
+(xfce4-appearance-settings:5672): Pango-WARNING **: scaled_font status is: out of memory
+
+(xfce4-appearance-settings:5672): Pango-WARNING **: failed to create cairo scaled font, expect ugly output. the offending font is 'AppleGothic 6.9990234375'
+
+(xfce4-appearance-settings:5672): Pango-WARNING **: font_face status is: <unknown error status>
+
+(xfce4-appearance-settings:5672): Pango-WARNING **: scaled_font status is: out of memory
+
+(xfce4-appearance-settings:5672): Pango-WARNING **: shaping failure, expect ugly output. shape-engine='BasicEngineFc', font='AppleGothic 6.9990234375', text='●'
+
+(xfce4-appearance-settings:5672): Pango-WARNING **: failed to create cairo scaled font, expect ugly output. the offending font is 'AppleGothic 6.9990234375'
+
+(xfce4-appearance-settings:5672): Pango-WARNING **: font_face status is: out of memory
+
+(xfce4-appearance-settings:5672): Pango-WARNING **: scaled_font status is: out of memory
+
+(xfce4-appearance-settings:5672): Pango-WARNING **: failed to create cairo scaled font, expect ugly output. the offending font is 'Andale Mono 6.9990234375'
+
+(xfce4-appearance-settings:5672): Pango-WARNING **: font_face status is: <unknown error status>
+
+(xfce4-appearance-settings:5672): Pango-WARNING **: scaled_font status is: out of memory
+
+(xfce4-appearance-settings:5672): Pango-WARNING **: shaping failure, expect ugly output. shape-engine='BasicEngineFc', font='Andale Mono 6.9990234375', text='●'
+
+(xfce4-appearance-settings:5672): Pango-WARNING **: failed to create cairo scaled font, expect ugly output. the offending font is 'Andale Mono 6.9990234375'
+
+(xfce4-appearance-settings:5672): Pango-WARNING **: font_face status is: <unknown error status>
+
+(xfce4-appearance-settings:5672): Pango-WARNING **: scaled_font status is: out of memory
+
+(xfce4-appearance-settings:5672): Pango-WARNING **: failed to create cairo scaled font, expect ugly output. the offending font is 'Apple LiGothic Medium Oblique 6.9990234375'
+
+(xfce4-appearance-settings:5672): Pango-WARNING **: font_face status is: <unknown error status>
+
+(xfce4-appearance-settings:5672): Pango-WARNING **: scaled_font status is: out of memory
+
+(xfce4-appearance-settings:5672): Pango-WARNING **: shaping failure, expect ugly output. shape-engine='BasicEngineFc', font='Apple LiGothic Medium Oblique 6.9990234375', text='●'
+
+(xfce4-appearance-settings:5672): Pango-WARNING **: failed to create cairo scaled font, expect ugly output. the offending font is 'Apple LiGothic Medium Oblique 6.9990234375'
+
+(xfce4-appearance-settings:5672): Pango-WARNING **: font_face status is: <unknown error status>
+
+(xfce4-appearance-settings:5672): Pango-WARNING **: scaled_font status is: out of memory
+
+(xfce4-appearance-settings:5672): Pango-WARNING **: failed to create cairo scaled font, expect ugly output. the offending font is 'Apple LiSung Light Oblique 6.9990234375'
+
+(xfce4-appearance-settings:5672): Pango-WARNING **: font_face status is: <unknown error status>
+
+(xfce4-appearance-settings:5672): Pango-WARNING **: scaled_font status is: out of memory
+
+(xfce4-appearance-settings:5672): Pango-WARNING **: shaping failure, expect ugly output. shape-engine='BasicEngineFc', font='Apple LiSung Light Oblique 6.9990234375', text='●'
+
+(xfce4-appearance-settings:5672): Pango-WARNING **: failed to create cairo scaled font, expect ugly output. the offending font is 'Apple LiSung Light Oblique 6.9990234375'
+
+(xfce4-appearance-settings:5672): Pango-WARNING **: font_face status is: <unknown error status>
+
+(xfce4-appearance-settings:5672): Pango-WARNING **: scaled_font status is: out of memory
+
+(xfce4-appearance-settings:5672): Pango-WARNING **: failed to create cairo scaled font, expect ugly output. the offending font is 'Apple LiSung Light 6.9990234375'
+
+(xfce4-appearance-settings:5672): Pango-WARNING **: font_face status is: <unknown error status>
+
+(xfce4-appearance-settings:5672): Pango-WARNING **: scaled_font status is: out of memory
+
+(xfce4-appearance-settings:5672): Pango-WARNING **: shaping failure, expect ugly output. shape-engine='BasicEngineFc', font='Apple LiSung Light 6.9990234375', text='●'
+
+(xfce4-appearance-settings:5672): Pango-WARNING **: failed to create cairo scaled font, expect ugly output. the offending font is 'Apple LiSung Light 6.9990234375'
+
+(xfce4-appearance-settings:5672): Pango-WARNING **: font_face status is: <unknown error status>
+
+(xfce4-appearance-settings:5672): Pango-WARNING **: scaled_font status is: out of memory
+
+(xfce4-appearance-settings:5672): Pango-WARNING **: failed to create cairo scaled font, expect ugly output. the offending font is 'Arial 6.9990234375'
+
+(xfce4-appearance-settings:5672): Pango-WARNING **: font_face status is: <unknown error status>
+
+(xfce4-appearance-settings:5672): Pango-WARNING **: scaled_font status is: out of memory
+
+(xfce4-appearance-settings:5672): Pango-WARNING **: shaping failure, expect ugly output. shape-engine='BasicEngineFc', font='Arial 6.9990234375', text='●'
+
+(xfce4-appearance-settings:5672): Pango-WARNING **: failed to create cairo scaled font, expect ugly output. the offending font is 'Arial 6.9990234375'
+
+(xfce4-appearance-settings:5672): Pango-WARNING **: font_face status is: <unknown error status>
+
+(xfce4-appearance-settings:5672): Pango-WARNING **: scaled_font status is: out of memory
+
+(xfce4-appearance-settings:5672): Pango-WARNING **: failed to create cairo scaled font, expect ugly output. the offending font is 'Arial Hebrew 6.9990234375'
+
+(xfce4-appearance-settings:5672): Pango-WARNING **: font_face status is: <unknown error status>
+
+(xfce4-appearance-settings:5672): Pango-WARNING **: scaled_font status is: out of memory
+
+(xfce4-appearance-settings:5672): Pango-WARNING **: shaping failure, expect ugly output. shape-engine='BasicEngineFc', font='Arial Hebrew 6.9990234375', text='●'
+
+(xfce4-appearance-settings:5672): Pango-WARNING **: failed to create cairo scaled font, expect ugly output. the offending font is 'Arial Hebrew 6.9990234375'
+
+(xfce4-appearance-settings:5672): Pango-WARNING **: font_face status is: no error has occurred
+
+(xfce4-appearance-settings:5672): Pango-WARNING **: scaled_font status is: out of memory
+
+(xfce4-appearance-settings:5672): Pango-WARNING **: failed to create cairo scaled font, expect ugly output. the offending font is 'Arial Narrow Condensed 6.9990234375'
+
+(xfce4-appearance-settings:5672): Pango-WARNING **: font_face status is: <unknown error status>
+
+(xfce4-appearance-settings:5672): Pango-WARNING **: scaled_font status is: out of memory
+
+(xfce4-appearance-settings:5672): Pango-WARNING **: shaping failure, expect ugly output. shape-engine='BasicEngineFc', font='Arial Narrow Condensed 6.9990234375', text='●'
+
+(xfce4-appearance-settings:5672): Pango-WARNING **: failed to create cairo scaled font, expect ugly output. the offending font is 'Arial Narrow Condensed 6.9990234375'
+
+(xfce4-appearance-settings:5672): Pango-WARNING **: font_face status is: out of memory
+
+(xfce4-appearance-settings:5672): Pango-WARNING **: scaled_font status is: out of memory
+
+(xfce4-appearance-settings:5672): Pango-WARNING **: failed to create cairo scaled font, expect ugly output. the offending font is 'Arial Rounded MT Bold, 6.9990234375'
+
+(xfce4-appearance-settings:5672): Pango-WARNING **: font_face status is: <unknown error status>
+
+(xfce4-appearance-settings:5672): Pango-WARNING **: scaled_font status is: out of memory
+
+(xfce4-appearance-settings:5672): Pango-WARNING **: shaping failure, expect ugly output. shape-engine='BasicEngineFc', font='Arial Rounded MT Bold, 6.9990234375', text='●'
+
+(xfce4-appearance-settings:5672): Pango-WARNING **: failed to create cairo scaled font, expect ugly output. the offending font is 'Arial Rounded MT Bold, 6.9990234375'
+
+(xfce4-appearance-settings:5672): Pango-WARNING **: font_face status is: <unknown error status>
+
+(xfce4-appearance-settings:5672): Pango-WARNING **: scaled_font status is: out of memory
+
+(xfce4-appearance-settings:5672): Pango-WARNING **: failed to create cairo scaled font, expect ugly output. the offending font is 'Arial Unicode MS 6.9990234375'
+
+(xfce4-appearance-settings:5672): Pango-WARNING **: font_face status is: <unknown error status>
+
+(xfce4-appearance-settings:5672): Pango-WARNING **: scaled_font status is: out of memory
+
+(xfce4-appearance-settings:5672): Pango-WARNING **: shaping failure, expect ugly output. shape-engine='BasicEngineFc', font='Arial Unicode MS 6.9990234375', text='●'
+
+(xfce4-appearance-settings:5672): Pango-WARNING **: failed to create cairo scaled font, expect ugly output. the offending font is 'Arial Unicode MS 6.9990234375'
+
+(xfce4-appearance-settings:5672): Pango-WARNING **: font_face status is: <unknown error status>
+
+(xfce4-appearance-settings:5672): Pango-WARNING **: scaled_font status is: out of memory
+
+(xfce4-appearance-settings:5672): Pango-WARNING **: failed to create cairo scaled font, expect ugly output. the offending font is 'Calibri 6.9990234375'
+
+(xfce4-appearance-settings:5672): Pango-WARNING **: font_face status is: <unknown error status>
+
+(xfce4-appearance-settings:5672): Pango-WARNING **: scaled_font status is: out of memory
+
+(xfce4-appearance-settings:5672): Pango-WARNING **: shaping failure, expect ugly output. shape-engine='BasicEngineFc', font='Calibri 6.9990234375', text='●'
+
+(xfce4-appearance-settings:5672): Pango-WARNING **: failed to create cairo scaled font, expect ugly output. the offending font is 'Calibri 6.9990234375'
+
+(xfce4-appearance-settings:5672): Pango-WARNING **: font_face status is: out of memory
+
+(xfce4-appearance-settings:5672): Pango-WARNING **: scaled_font status is: out of memory
+
+(xfce4-appearance-settings:5672): Pango-WARNING **: failed to create cairo scaled font, expect ugly output. the offending font is 'Calibri Light 6.9990234375'
+
+(xfce4-appearance-settings:5672): Pango-WARNING **: font_face status is: <unknown error status>
+
+(xfce4-appearance-settings:5672): Pango-WARNING **: scaled_font status is: out of memory
+
+(xfce4-appearance-settings:5672): Pango-WARNING **: shaping failure, expect ugly output. shape-engine='BasicEngineFc', font='Calibri Light 6.9990234375', text='●'
+
+(xfce4-appearance-settings:5672): Pango-WARNING **: failed to create cairo scaled font, expect ugly output. the offending font is 'Calibri Light 6.9990234375'
+
+(xfce4-appearance-settings:5672): Pango-WARNING **: font_face status is: <unknown error status>
+
+(xfce4-appearance-settings:5672): Pango-WARNING **: scaled_font status is: out of memory
+
+(xfce4-appearance-settings:5672): Pango-WARNING **: failed to create cairo scaled font, expect ugly output. the offending font is 'Candara 6.9990234375'
+
+(xfce4-appearance-settings:5672): Pango-WARNING **: font_face status is: <unknown error status>
+
+(xfce4-appearance-settings:5672): Pango-WARNING **: scaled_font status is: out of memory
+
+(xfce4-appearance-settings:5672): Pango-WARNING **: shaping failure, expect ugly output. shape-engine='BasicEngineFc', font='Candara 6.9990234375', text='●'
+
+(xfce4-appearance-settings:5672): Pango-WARNING **: failed to create cairo scaled font, expect ugly output. the offending font is 'Candara 6.9990234375'
+
+(xfce4-appearance-settings:5672): Pango-WARNING **: font_face status is: <unknown error status>
+
+(xfce4-appearance-settings:5672): Pango-WARNING **: scaled_font status is: out of memory
+
+(xfce4-appearance-settings:5672): Pango-WARNING **: failed to create cairo scaled font, expect ugly output. the offending font is 'Chalkduster Oblique 6.9990234375'
+
+(xfce4-appearance-settings:5672): Pango-WARNING **: font_face status is: <unknown error status>
+
+(xfce4-appearance-settings:5672): Pango-WARNING **: scaled_font status is: out of memory
+
+(xfce4-appearance-settings:5672): Pango-WARNING **: shaping failure, expect ugly output. shape-engine='BasicEngineFc', font='Chalkduster Oblique 6.9990234375', text='●'
+
+(xfce4-appearance-settings:5672): Pango-WARNING **: failed to create cairo scaled font, expect ugly output. the offending font is 'Chalkduster Oblique 6.9990234375'
+
+(xfce4-appearance-settings:5672): Pango-WARNING **: font_face status is: <unknown error status>
+
+(xfce4-appearance-settings:5672): Pango-WARNING **: scaled_font status is: out of memory
+
+(xfce4-appearance-settings:5672): Pango-WARNING **: failed to create cairo scaled font, expect ugly output. the offending font is 'Chalkduster 6.9990234375'
+
+(xfce4-appearance-settings:5672): Pango-WARNING **: font_face status is: <unknown error status>
+
+(xfce4-appearance-settings:5672): Pango-WARNING **: scaled_font status is: out of memory
+
+(xfce4-appearance-settings:5672): Pango-WARNING **: shaping failure, expect ugly output. shape-engine='BasicEngineFc', font='Chalkduster 6.9990234375', text='●'
+
+(xfce4-appearance-settings:5672): Pango-WARNING **: failed to create cairo scaled font, expect ugly output. the offending font is 'Chalkduster 6.9990234375'
+
+(xfce4-appearance-settings:5672): Pango-WARNING **: font_face status is: <unknown error status>
+
+(xfce4-appearance-settings:5672): Pango-WARNING **: scaled_font status is: out of memory
+
+(xfce4-appearance-settings:5672): Pango-WARNING **: failed to create cairo scaled font, expect ugly output. the offending font is 'Comic Sans MS 6.9990234375'
+
+(xfce4-appearance-settings:5672): Pango-WARNING **: font_face status is: <unknown error status>
+
+(xfce4-appearance-settings:5672): Pango-WARNING **: scaled_font status is: out of memory
+
+(xfce4-appearance-settings:5672): Pango-WARNING **: shaping failure, expect ugly output. shape-engine='BasicEngineFc', font='Comic Sans MS 6.9990234375', text='●'
+
+(xfce4-appearance-settings:5672): Pango-WARNING **: failed to create cairo scaled font, expect ugly output. the offending font is 'Comic Sans MS 6.9990234375'
+
+(xfce4-appearance-settings:5672): Pango-WARNING **: font_face status is: <unknown error status>
+
+(xfce4-appearance-settings:5672): Pango-WARNING **: scaled_font status is: out of memory
+
+(xfce4-appearance-settings:5672): Pango-WARNING **: failed to create cairo scaled font, expect ugly output. the offending font is 'Consolas Bold Italic 6.9990234375'
+
+(xfce4-appearance-settings:5672): Pango-WARNING **: font_face status is: <unknown error status>
+
+(xfce4-appearance-settings:5672): Pango-WARNING **: scaled_font status is: out of memory
+
+(xfce4-appearance-settings:5672): Pango-WARNING **: shaping failure, expect ugly output. shape-engine='BasicEngineFc', font='Consolas Bold Italic 6.9990234375', text='●'
+
+(xfce4-appearance-settings:5672): Pango-WARNING **: failed to create cairo scaled font, expect ugly output. the offending font is 'Consolas Bold Italic 6.9990234375'
+
+(xfce4-appearance-settings:5672): Pango-WARNING **: font_face status is: <unknown error status>
+
+(xfce4-appearance-settings:5672): Pango-WARNING **: scaled_font status is: out of memory
+/tmp/tmp.g8brKSniJW
+Gkr-Message: secret service operation failed: The name org.freedesktop.secrets was not provided by any .service files
+Xsession: X session started for psd at Wed Oct 23 07:01:38 PDT 2013
+localuser:psd being added to access control list
+/usr/bin/startxfce4: X server already running on display :0
+ssh-agent is already running
+xfdesktop[3011]: starting up
+
+(xfce4-settings-helper:3016): xfce4-settings-helper-WARNING **: Unknown mode '1440x855 @ 60.0' for output VBOX0.
+
+xfce4-settings-helper: Another instance is already running. Leaving...
+
+** (xfce4-session:2995): WARNING **: Unable to launch "/usr/lib/policykit-1-gnome/polkit-gnome-authentication-agent-1" (specified by autostart/polkit-gnome-authentication-agent-1.desktop): Failed to execute child process "/usr/lib/policykit-1-gnome/polkit-gnome-authentication-agent-1" (No such file or directory)
+/tmp/tmp.2ZzPWL7PIS
+
+** (xfce4-session:2995): WARNING **: Unable to launch "L2tpIPsecVpn" (specified by autostart/L2tpIPsecVpn.desktop): Failed to execute child process "L2tpIPsecVpn" (No such file or directory)
+Gkr-Message: secret service operation failed: The name org.freedesktop.secrets was not provided by any .service files
+p11-kit: couldn't load module: /usr/lib/i386-linux-gnu/pkcs11/gnome-keyring-pkcs11.so: /usr/lib/i386-linux-gnu/pkcs11/gnome-keyring-pkcs11.so: cannot open shared object file: No such file or directory
+Conky: desktop window (2000003) is subwindow of root window (138)
+Conky: drawing to desktop window
+Conky: drawing to single buffer
+Conky: '/etc/conky/conky.conf' modified, reloading...
+Conky: desktop window (2000003) is subwindow of root window (138)
+Conky: drawing to desktop window
+Conky: drawing to single buffer
+Xsession: X session started for psd at Wed Oct 23 08:03:54 PDT 2013
+localuser:psd being added to access control list
+/usr/bin/startxfce4: X server already running on display :0
+ssh-agent is already running
+xfdesktop[3030]: starting up
+
+(xfce4-settings-helper:3033): xfce4-settings-helper-WARNING **: Unknown mode '1440x855 @ 60.0' for output VBOX0.
+
+xfce4-settings-helper: Another instance is already running. Leaving...
+
+** (xfce4-session:3015): WARNING **: Unable to launch "/usr/lib/policykit-1-gnome/polkit-gnome-authentication-agent-1" (specified by autostart/polkit-gnome-authentication-agent-1.desktop): Failed to execute child process "/usr/lib/policykit-1-gnome/polkit-gnome-authentication-agent-1" (No such file or directory)
+/tmp/tmp.hgFwWPfdRG
+
+** (xfce4-session:3015): WARNING **: Unable to launch "L2tpIPsecVpn" (specified by autostart/L2tpIPsecVpn.desktop): Failed to execute child process "L2tpIPsecVpn" (No such file or directory)
+Gkr-Message: secret service operation failed: The name org.freedesktop.secrets was not provided by any .service files
+p11-kit: couldn't load module: /usr/lib/i386-linux-gnu/pkcs11/gnome-keyring-pkcs11.so: /usr/lib/i386-linux-gnu/pkcs11/gnome-keyring-pkcs11.so: cannot open shared object file: No such file or directory
+Conky: desktop window (2000003) is subwindow of root window (138)
+Conky: drawing to desktop window
+Conky: drawing to single buffer
+
+(Thunar:3024): Gtk-WARNING **: Error loading theme icon 'emblem-downloads' for stock: Icon 'emblem-downloads' not present in theme
+Xsession: X session started for psd at Wed Oct 23 08:23:10 PDT 2013
+localuser:psd being added to access control list
+/usr/bin/startxfce4: X server already running on display :0
+ssh-agent is already running
+xfdesktop[3004]: starting up
+
+(xfce4-settings-helper:3009): xfce4-settings-helper-WARNING **: Unknown mode '1440x855 @ 60.0' for output VBOX0.
+
+xfce4-settings-helper: Another instance is already running. Leaving...
+/tmp/tmp.SI9fFoqL2g
+
+** (xfce4-session:2989): WARNING **: Unable to launch "/usr/lib/policykit-1-gnome/polkit-gnome-authentication-agent-1" (specified by autostart/polkit-gnome-authentication-agent-1.desktop): Failed to execute child process "/usr/lib/policykit-1-gnome/polkit-gnome-authentication-agent-1" (No such file or directory)
+
+** (xfce4-session:2989): WARNING **: Unable to launch "L2tpIPsecVpn" (specified by autostart/L2tpIPsecVpn.desktop): Failed to execute child process "L2tpIPsecVpn" (No such file or directory)
+Gkr-Message: secret service operation failed: The name org.freedesktop.secrets was not provided by any .service files
+p11-kit: couldn't load module: /usr/lib/i386-linux-gnu/pkcs11/gnome-keyring-pkcs11.so: /usr/lib/i386-linux-gnu/pkcs11/gnome-keyring-pkcs11.so: cannot open shared object file: No such file or directory
+Conky: desktop window (2000003) is subwindow of root window (138)
+Conky: drawing to desktop window
+Conky: drawing to single buffer
+
+(Thunar:2999): Gtk-WARNING **: Error loading theme icon 'emblem-downloads' for stock: Icon 'emblem-downloads' not present in theme
+/tmp/tmp.7GiICq1doY
+Gkr-Message: secret service operation failed: The name org.freedesktop.secrets was not provided by any .service files
+/tmp/tmp.rTko3b0tEi
+Gkr-Message: secret service operation failed: The name org.freedesktop.secrets was not provided by any .service files
+/tmp/tmp.ILFpoXQ4R4
+Gkr-Message: secret service operation failed: The name org.freedesktop.secrets was not provided by any .service files
+/tmp/tmp.EOqVDK0hIv
+Gkr-Message: secret service operation failed: The name org.freedesktop.secrets was not provided by any .service files
+/tmp/tmp.hPd9Dui8IK
+Gkr-Message: secret service operation failed: The name org.freedesktop.secrets was not provided by any .service files

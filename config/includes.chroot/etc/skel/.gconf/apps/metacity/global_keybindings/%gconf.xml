@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<gconf>
+	<entry name="run_command_screenshot" mtime="1382374898" type="string">
+		<stringvalue>Print</stringvalue>
+	</entry>
+</gconf>

@@ -1,0 +1,32 @@
+{
+   "inputtool_description": {
+      "message": "Google Input Tools lets you type in your language using the input tools familiar to you."
+   },
+   "inputtool_extension_options": {
+      "message": "Extension Options"
+   },
+   "inputtool_hide_virtual_keyboard": {
+      "message": "Hide Keyboard"
+   },
+   "inputtool_manage": {
+      "message": "To manage extensions. click the spanner TOOL_IMAGE menu and select Tools RIGHT_ARROW Extensions."
+   },
+   "inputtool_options_title": {
+      "message": "Chrome extension options"
+   },
+   "inputtool_select_inputtools": {
+      "message": "Add Input Tools"
+   },
+   "inputtool_selected_inputtools": {
+      "message": "Selected Input Tools"
+   },
+   "inputtool_show_virtual_keyboard": {
+      "message": "Show Keyboard"
+   },
+   "inputtool_title": {
+      "message": "Google Input Tools (by Google)"
+   },
+   "inputtool_turnoff": {
+      "message": "Turn off"
+   }
+}

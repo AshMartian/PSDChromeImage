@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Google Chrome
+Comment=Browse the internet
+Exec=chromium-browser --temp-profile --start-maximized http://my.psd401.net
+Icon=/home/psd/Pictures/Google-Chrome-icon.png
+Path=
+Terminal=false
+StartupNotify=false
+GenericName=

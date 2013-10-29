@@ -1,0 +1,32 @@
+{
+   "inputtool_description": {
+      "message": "Mit Google Input Tools k\u00F6nnen Sie \u00FCber vertraute Eingabe-Tools Begriffe in Ihrer Sprache eingeben."
+   },
+   "inputtool_extension_options": {
+      "message": "Erweiterungsoptionen"
+   },
+   "inputtool_hide_virtual_keyboard": {
+      "message": "Tastatur ausblenden"
+   },
+   "inputtool_manage": {
+      "message": "Klicken Sie zum Verwalten von Erweiterungen auf das Schraubenschl\u00FCssel-Men\u00FC TOOL_IMAGE und w\u00E4hlen Sie \"Tools\" RIGHT_ARROW \"Erweiterungen\"."
+   },
+   "inputtool_options_title": {
+      "message": "Optionen f\u00FCr Chrome-Erweiterungen"
+   },
+   "inputtool_select_inputtools": {
+      "message": "Eingabe-Tools hinzuf\u00FCgen"
+   },
+   "inputtool_selected_inputtools": {
+      "message": "Ausgew\u00E4hlte Eingabe-Tools"
+   },
+   "inputtool_show_virtual_keyboard": {
+      "message": "Tastatur einblenden"
+   },
+   "inputtool_title": {
+      "message": "Google Input Tools (von Google)"
+   },
+   "inputtool_turnoff": {
+      "message": "Deaktivieren"
+   }
+}

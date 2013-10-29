@@ -1,0 +1,11 @@
+[Desktop Entry]
+Encoding=UTF-8
+Version=0.9.4
+Type=Application
+Name=Google Chrome
+Comment=Browse the internet
+Exec=chromium-browser --temp-profile --start-maximized http://my.psd401.net
+StartupNotify=false
+Terminal=false
+Hidden=false
+

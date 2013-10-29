@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Downloads
+Comment=Google Chrome Downloads
+Exec=thunar Downloads
+Icon=folder
+Path=
+Terminal=false
+StartupNotify=false
