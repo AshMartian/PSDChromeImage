@@ -1,0 +1,13 @@
+[Desktop Entry]
+Version=1.0
+Name=Network Settings
+Comment=Configure Wireless and Wired Networks
+Exec=wicd-gtk
+Icon=preferences-desktop-wallpaper
+Terminal=false
+Type=Application
+Categories=X-XFCE;Settings;DesktopSettings;X-XfceSettingsDialog;
+OnlyShowIn=XFCE;
+StartupNotify=true
+X-XfcePluggable=true
+X-XfceHelpFile=xfdesktop.html
